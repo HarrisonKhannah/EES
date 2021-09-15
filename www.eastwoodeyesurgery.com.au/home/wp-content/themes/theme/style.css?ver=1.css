@@ -1,0 +1,46 @@
+/*
+Theme Name: Eastwood Eye Surgery
+Theme URI:
+Author: Mr. Digital
+Author URI: http://www.mrdigital.com.au
+*/
+
+
+
+.bread_crumb  {font-family:"Proxima-Nova", sans-serif !important}
+
+
+.post_content p, .columns .post_content p {font-family:"proxima-nova", sans-serif !important;}
+
+.slider_navigation {display:none}
+
+.slider_content h1 {text-align:center}
+
+.gallery_box .description h5 {font-size:12px}
+
+.home_box_container {margin-top:50px !important}
+
+.logos {text-align:center}
+
+    @media only screen and (min-width : 10px) {
+
+
+
+.phonetop {display:none}
+
+    }
+
+
+
+    @media only screen and (min-width : 992px) {
+
+
+.phonetop {float:right; margin-top:-100px; font-size:40px; display:block;}
+
+
+    }
+
+
+
+
+.gallery .description h3, .gallery_box .description h3 {font-weight:600; font-size:22px}
